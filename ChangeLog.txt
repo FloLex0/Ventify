@@ -1,0 +1,9 @@
+ChangeLog
+
+
+Added option to change Cover Image in Profile.
+
+Added Notification when someone accepts Friend Request.
+
+Version 5.0 (1/10/2020)
+Initial Release.
